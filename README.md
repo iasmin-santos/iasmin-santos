@@ -3,12 +3,13 @@
 <h1 align="left">Seja bem-vindo(a)! 👋🏼</h1>
 
 
-<p align="left">Me chamo Iasmin, tenho 18 e sou de Belo Horizonte/MG.</p>
+<p align="left">Me chamo Iasmin, tenho 18 anos e sou de Belo Horizonte/MG.</p>
 
 ###
 
 <p align="left">- 📚 Técnica em Desenvolvimento de Sistemas;<br>- 📖 Cursnado Design UX pela Coursera.</p>
 
+###
 ###
 
 <div align="center">
@@ -35,7 +36,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iasmin-santos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iasmin-santos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=iasmin-santos&locale=en&mode=daily&theme=jolly&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  
 </div>
 
 ###
@@ -60,18 +61,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/iasmin-santos/iasmin-santos/output/snake.svg" alt="Snake animation" />
 
-###
-
-<h4 align="center">🎧 Music</h4>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/qyn7ncmn9pgbvd85ahwhch779">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=qyn7ncmn9pgbvd85ahwhch779&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
