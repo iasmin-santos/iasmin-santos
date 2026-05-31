@@ -3,11 +3,11 @@
 <h1 align="left">Seja bem-vindo(a)! 👋🏼</h1>
 
 
-<p align="left">Me chamo Iasmin, tenho 18 anos e sou de Belo Horizonte/MG.</p>
+<p align="left">Me chamo Iasmin, tenho 20 anos e sou de Belo Horizonte-Minas Gerais.</p>
 
 ###
 
-<p align="left">- 📚 Técnica em Desenvolvimento de Sistemas;<br>- 📖 Cursnado Design UX pela Coursera.</p>
+<p align="left">- 📚 Graduanda em Ciência da Computação;<br>- 📖 Técnica em Desenvolvimento de Sistemas.</p>
 
 ###
 ###
@@ -16,7 +16,7 @@
   <a href="https://www.instagram.com/iasmin.zip/?hl=pt-br" target="_blank">
     <img src="https://img.shields.io/static/v1?message=instagram&logo=instagram&label=&color=black&logoColor=d357c2&labelColor=black&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/iasmin-pedrosa-santos-75a1512ab/" target="_blank">
+  <a href="https://www.linkedin.com/in/iasminevelin/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=black&logoColor=d357c2&labelColor=black&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://www.behance.net/iasminevelin1" target="_blank">
