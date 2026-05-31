@@ -31,12 +31,10 @@
 
 <h4 align="center">📊 GitHub Stats</h4>
 
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iasmin-santos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iasmin-santos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=iasmin-santos&show_icons=true&theme=jolly&hide_border=true&count_private=true" />
   
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iasmin-santos&layout=compact&theme=jolly&hide_border=true" />
 </div>
 
 ###
